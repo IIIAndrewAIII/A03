@@ -1,4 +1,6 @@
 # A03
+How to use Git and Github:
+1) Install Git as a Local Program
 Definitions:
 
 GIT: This is a version control system that is used to keep track of changes in source code by taking snapshots of committed code, and keeping track of these snapshots over time.
@@ -24,3 +26,8 @@ Merge Conflict: This occurs when people make different changes to the same line 
 Fetch: This command gets the most recent changes of the online repository but it doesnt merge them with your local repository, it allow you to compare it to the code on your local repository 
 
 Remote: This is something that can be hosted on a server, for example GITHUB hosts your code online on their server
+
+
+**Reference List**
+
+Introduction to Github and Webstorm by Arther H Hendela, Ph.D. Senior University Lecturer, NJIT
