@@ -1,8 +1,13 @@
 # A03
-# **How to use Git and Github:**
-1) Install Git as a Local Program
+## **How to use Git and Github:**
+1) Install Git as a Local Program from https://git-scm.com/downloads
+2) Create a Github account on https://github.com/join
+3) Connect Github with your IDE. In this case I will use Webstorm which is a jetbrains based IDE from https://www.jetbrains.com. In Webstorm press Ctrl+Alt+S to view system preferences, then select Version control Git and enter the path to the git.exe file you downloaded in step 1
+4) While still using Webstorm, go to system preferences again and select Appearance & Behavior|System Settings|Passwords, then select the location of the password file
+5) Goto your github page then on the top right click the + sign and select "Create New Repository", name the repository what you want your project to be called. This will be like a file where all the project code and the history of all the changes made to the code will be stored
+6) 
 
-# **Definitions:**
+## **Definitions:**
 
 GIT: This is a version control system that is used to keep track of changes in source code by taking snapshots of committed code, and keeping track of these snapshots over time.
 
@@ -29,6 +34,6 @@ Fetch: This command gets the most recent changes of the online repository but it
 Remote: This is something that can be hosted on a server, for example GITHUB hosts your code online on their server
 
 
-# **Reference List**
+## **Reference List**
 
 Introduction to Github and Webstorm by Arther H Hendela, Ph.D. Senior University Lecturer, NJIT
