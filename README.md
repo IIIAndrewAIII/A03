@@ -40,6 +40,6 @@ Fetch: This command gets the most recent changes of the online repository but it
 Remote: This is something that can be hosted on a server, for example GITHUB hosts your code online on their server
 
 
-## **Reference List**
+### **Reference List**
 
 Introduction to Github and Webstorm by Arther H Hendela, Ph.D. Senior University Lecturer, NJIT
