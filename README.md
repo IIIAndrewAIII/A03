@@ -12,7 +12,7 @@
 10) When you want to push the edited files to the online repository create a "Commit" using the green checkmark on the top right on the Webstorm window. Its recommended that you add a short description to your commit to make the repository easier to read.
 11) After you create a commit you will still have to "Push" the commit to the online repository
 12) You can use the shortcut on Webstorm which is Ctrl+Shift+K, or you can selec the "VCS" tab then the "Git" option then select "Push", which is a green arrow pointing up and to the right.
-13) You are now finished creating a git repository, creating a commit, and pushing the commit to the onlin github repository!!
+13) You are now finished creating a git repository, creating a commit, and pushing the commit to the onlin github repository!
 ## **Definitions:**
 
 GIT: This is a version control system that is used to keep track of changes in source code by taking snapshots of committed code, and keeping track of these snapshots over time.
